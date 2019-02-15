@@ -1,0 +1,11 @@
+/Users/alexcaskey/Documents/C# Projects/dogChallegeSolution/dogChallege/obj/Debug/netcoreapp2.0/dogChallege.csprojAssemblyReference.cache
+/Users/alexcaskey/Documents/C# Projects/dogChallegeSolution/dogChallege/obj/Debug/netcoreapp2.0/dogChallege.csproj.CoreCompileInputs.cache
+/Users/alexcaskey/Documents/C# Projects/dogChallegeSolution/dogChallege/obj/Debug/netcoreapp2.0/dogChallege.AssemblyInfoInputs.cache
+/Users/alexcaskey/Documents/C# Projects/dogChallegeSolution/dogChallege/obj/Debug/netcoreapp2.0/dogChallege.AssemblyInfo.cs
+/Users/alexcaskey/Documents/C# Projects/dogChallegeSolution/dogChallege/bin/Debug/netcoreapp2.0/dogChallege.deps.json
+/Users/alexcaskey/Documents/C# Projects/dogChallegeSolution/dogChallege/bin/Debug/netcoreapp2.0/dogChallege.runtimeconfig.json
+/Users/alexcaskey/Documents/C# Projects/dogChallegeSolution/dogChallege/bin/Debug/netcoreapp2.0/dogChallege.runtimeconfig.dev.json
+/Users/alexcaskey/Documents/C# Projects/dogChallegeSolution/dogChallege/bin/Debug/netcoreapp2.0/dogChallege.dll
+/Users/alexcaskey/Documents/C# Projects/dogChallegeSolution/dogChallege/bin/Debug/netcoreapp2.0/dogChallege.pdb
+/Users/alexcaskey/Documents/C# Projects/dogChallegeSolution/dogChallege/obj/Debug/netcoreapp2.0/dogChallege.dll
+/Users/alexcaskey/Documents/C# Projects/dogChallegeSolution/dogChallege/obj/Debug/netcoreapp2.0/dogChallege.pdb
